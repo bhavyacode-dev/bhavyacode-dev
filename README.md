@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Bhavya 👋
 
-<!--
-**bhavyacode-dev/bhavyacode-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | DSA | C++ | Web Development
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student at Thapar Institute of Engineering & Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning Data Structures & Algorithms  
+🌐 Exploring Web Development  
+🚀 Building projects and improving my problem-solving skills
+
+---
+
+## 🛠️ Skills
+
+- C
+- C++
+- Data Structures & Algorithms
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- MySQL
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Problem Solving
+- Web Development
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+
+- Web Development Projects
+- DSA Practice Repository
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bhavyacode-dev)
+
+---
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/bhavyacode-dev
