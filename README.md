@@ -41,7 +41,7 @@
 
 ## 📊 GitHub Stats
 
-![Bhavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavyacode-dev&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=bhavyacode-dev)
 
 ---
 
